@@ -1,0 +1,2 @@
+﻿model,task,mse_mean,mse_std,mae_mean,mae_std
+LSTM,90->365,268127.06,21698.24,390.40643,17.074577

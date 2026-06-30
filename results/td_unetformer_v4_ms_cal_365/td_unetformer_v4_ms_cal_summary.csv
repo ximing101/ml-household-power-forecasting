@@ -1,0 +1,2 @@
+﻿model,task,mse_mean,mse_std,mae_mean,mae_std
+TD-UNetFormer-MS-Cal,90->365,167349.38,1780.9814,303.78354,2.573351

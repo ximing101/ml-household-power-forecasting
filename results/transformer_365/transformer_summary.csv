@@ -1,0 +1,2 @@
+﻿model,task,mse_mean,mse_std,mae_mean,mae_std
+Transformer,90->365,233966.95,10179.446,364.17743,9.268469
